@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Estudiante de la poderosísima facultad de ingeniería, tecnólogo en sistemas, programar es mi vida <3
 <!--
 **franciscodiazz/franciscodiazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
